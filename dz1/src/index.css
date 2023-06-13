@@ -1,0 +1,24 @@
+#root {
+    display: flex;
+
+}
+
+.card {
+    width: 300px;
+
+
+}
+.card__img {
+    width: 110px;
+    height: 100px;
+}
+.card-h1 {
+    color: red;
+    font-size: 20px;
+}
+.card-span {
+    color: darkblue;
+}
+.card-btn {
+    margin: 10px;
+}
